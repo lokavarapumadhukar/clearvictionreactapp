@@ -1,4 +1,4 @@
-## Download the React project from the Github Repository and run it locally
+## Download the react project from the repository and run it locally
 
 Open your terminal and then type
 
