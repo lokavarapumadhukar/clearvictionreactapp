@@ -4,7 +4,7 @@ Open your terminal and then type
 
 git clone https://github.com/lokavarapumadhukar/clearvictionreactapp
 
-This clones the repository. 
+This clones the repository.  
 
 cd into the new folder and type:
 
