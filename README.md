@@ -1,23 +1,23 @@
-**#Download React Project from Github Repo and Run it locally**
+## Download the React project from the Github Repository and run it locally
 
 Open your terminal and then type
 
-git clone {the URL to the GitHub repo}
+git clone https://github.com/lokavarapumadhukar/clearvictionreactapp
 
-This clones the repo
+**This clones the repository. **
 
-cd into the new folder and type
+cd into the new folder and type:
 
 npm install
 
 This installs the required dependencies
 
-To run the React project.
+To run the React project:
 npm start
 
-# Getting Started with Create React App
+This will initiate the development server, and you can view the project by opening your web browser and navigating to the provided address (usually http://localhost:3000).
+Make sure that Node.js and npm are installed on your machine before executing these commands.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
